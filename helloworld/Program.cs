@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("welcome to c#");
+            
+            Console.WriteLine("welcome to .net");
         }
     }
 }
